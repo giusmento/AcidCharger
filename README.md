@@ -1,4 +1,4 @@
-# ACID CHARGER
+# ACID CHARGER V1
 
 This board is a charger for acid batteries
 
@@ -19,5 +19,10 @@ Do not forget to set the correct charging voltage before loading the battery.
 
 High voltage drops from Vin to Vout may overheat and damage the board please do not exceed (Vin - Vou) > 30V
 
-Please use
+Please use heat sink on LM317. 
+
+# Schematics
+
+![schematics](schematics.png)
+
 
