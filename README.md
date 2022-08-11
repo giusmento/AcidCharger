@@ -1,6 +1,6 @@
 # ACID CHARGER V1
 
-This board is a charger for acid batteries
+This board is a charger for acid batteries.
 
 ## Description
 
@@ -21,8 +21,18 @@ High voltage drops from Vin to Vout may overheat and damage the board please do 
 
 Please use heat sink on LM317. 
 
+# Charging voltages
+
+| Acid Battery | Voltage    |
+| ------------ |------------|
+ | 12 V        | 13.7 (max) |
+ | 24 V        | 28.8 (max) |
+
 # Schematics
 
 ![schematics](schematic.png)
 
+# Disclamer
 
+This project is purely “at your own risk”. If you are uncomfortable or inexperienced please reconsider using this repository.
+Electricity is dangerous and severe shocks can be fatal.
