@@ -1,0 +1,8 @@
+U1 - LM317T
+R1 - 470R
+R2 - 1R
+R3 - 80K
+R4 - 10K potentiometer
+LED1 - 3mm white (charging led)
+C1 - 100n
+C2 - 100n
