@@ -30,7 +30,7 @@ Please use heat sink on LM317.
 
 # Schematics
 
-![schematics](schematic.png)
+![schematic](schematic.png)
 
 # Disclamer
 
